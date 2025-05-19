@@ -37,7 +37,7 @@
 #*************************************************************************************************
 
 
-PATH_TO_LIBRARY = 'C:/Users/dob54vy/Desktop/Zim-Projekt/TestingFilterwithpulsgenerator/PulsgeneratorAnsatz/DLTPulseGenerator.dll'
+PATH_TO_LIBRARY = '/DLTPulseGenerator.dll'
 
 import pyDLTPulseGenerator as dpg
 
